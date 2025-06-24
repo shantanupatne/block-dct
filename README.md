@@ -7,3 +7,5 @@ This project creates an image compression system using the 2-D DCT via the follo
 4. For the remaining coefficients, quantize each using an 8-bit uniform scalar quantizer.
 
 Also computes the total number of bits used to code the image, the average number of bits per pixel, and the peak signal-to-noise ratio (PSNR).
+
+*Course Assignment for EEE507-Multidimensional Signal Processing*
