@@ -1,3 +1,3 @@
 close all;
 clc;
-main("lena.raw")
+main("lena.png")
